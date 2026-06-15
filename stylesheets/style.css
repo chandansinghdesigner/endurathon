@@ -2601,7 +2601,7 @@ footer {
 	margin-right: 7px;
 }
 .social-icon-footer a:hover {
-    background-color: #C3E92D;
+    background-color: #ff791e;
 }
 .social-icon-footer a i {
 	color: var(--white);
@@ -2740,7 +2740,7 @@ a.shop-now::before {
 	border-radius: 0px 6px 6px 0px;
 }
 .input-new-letter button.btn-submit:hover {
-	background-color: #c3e92ded;
+	background-color: #ff791eed;
 }
 
 .logo-footer img {
