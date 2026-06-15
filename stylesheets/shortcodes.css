@@ -41,7 +41,7 @@
   
 :root {
 	--white: #ffffff;
-	--primary: #C3E92D;
+	--primary: #ff791e;
 	--success: #3DAB25;
 	--black: #121212;
 	--surface: #F7F7F7;
@@ -50,7 +50,7 @@
 	--interactive: #2E72D2;
 	--linear: #E9E9E9;
 	--secondary-one: #A0A0A0;
-	--critical: #DB4444;
+	--critical: #ff791e;
 	--linear-one: #E9E9E9;
 	--grey: #1E1E1E;
 	--line2: #2E2E2E;
